@@ -1,5 +1,3 @@
-
-
 # Professional README Project
 
 ## Description Of My Guide
@@ -17,37 +15,49 @@
 
 2.) Always having a passion to become a full web developer.
 
-3.) 
 _____
 
 ## Why did you build this project? 
 1.) to understand the required code for becoming a full web devoloper.
 
-2.)
+2.) Having a study guide to look back on while procuring knowledge.
+
+
+____
+
+## What did you learn?
+
+1.) I learned how to push and pull into GIT
+
+2.) I learned how to use markdown
+
+3.) I learned about fuctions and if statements.
+
+4.) I learned how to structure a webpage using HTML.
+
+5.) I learned how to link CSS to HTML.
 
 
 
 
 
-
-
-
-- what problem does it solve?
 
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 ____
 
 
 ## Usage
 
+1.) to go back and review the notes i took for the class when needed.
+
 
 
 ____
-  ## Languages used
+  ## Languages Used
 
 -HTML
 69.4%
@@ -98,6 +108,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
